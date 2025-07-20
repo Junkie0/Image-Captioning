@@ -11,6 +11,15 @@ This is a simple web application built using **Flask** that generates captions f
 
 ---
 
+## 📸 Preview
+
+### Input Image
+![Base Image](Model2/Base.png)
+
+### Generated Caption Output
+![Output Image](Model2/output.png)
+
+
 ## 📁 Project Structure
 
 ```
